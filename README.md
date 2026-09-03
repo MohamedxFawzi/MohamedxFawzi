@@ -112,6 +112,6 @@ I'm currently building my fundamentals through problem solving, learning new tec
 
 ## 📫 Connect With Me
 
-- 🌐 [Portfolio](https://portfolio-iota-six-71.vercel.app/)
-- 💼 [LinkedIn](www.linkedin.com/in/mohamedxfawzi)
-- 📧 mohamedxfawzi@gmail.com
+-  [Portfolio](https://portfolio-iota-six-71.vercel.app/)
+-  [LinkedIn](www.linkedin.com/in/mohamedxfawzi)
+-  mohamedxfawzi@gmail.com
