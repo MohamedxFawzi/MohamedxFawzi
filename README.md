@@ -1,7 +1,5 @@
 # Hi, I'm Mohamed Fawzi 👋
 
-### Software Engineer
-
 I'm a Software Engineer interested in building reliable software and solving problems through clean and maintainable code.
 
 I like understanding how things work instead of just using them, and I'm always working on improving my problem-solving skills and software engineering fundamentals.
