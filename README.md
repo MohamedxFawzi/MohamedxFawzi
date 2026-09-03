@@ -17,4 +17,4 @@ Currently open for full-time opportunities where I can leverage my technical ski
 - **Tools & Ecosystem:** Git, TypeScript, Shopify (Liquid), RESTful APIs.
 
 ---
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/mohamed--fawzi/) | [Email](mailto:mohamedfawzeix@gmail.com)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/mohamedxfawzi/) | [Email](mailto:mohamedxfawzi@gmail.com)
