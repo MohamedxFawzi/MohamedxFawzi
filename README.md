@@ -10,7 +10,7 @@ My main experience so far is with JavaScript, React, and Next.js. I'm currently 
 
 ---
 
-## 🧠 How I Approach Software
+##  How I Approach Software
 
 - I like breaking problems down into smaller and simpler parts.
 - I care about writing code that is easy to understand and maintain.
@@ -20,7 +20,7 @@ My main experience so far is with JavaScript, React, and Next.js. I'm currently 
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 **Languages**
 - JavaScript
@@ -47,7 +47,7 @@ My main experience so far is with JavaScript, React, and Next.js. I'm currently 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Pathly — AI Career Platform
 
@@ -94,7 +94,7 @@ A social media platform with authentication, image handling, infinite scrolling,
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 I'm currently focusing on Python and strengthening my programming fundamentals.
 
@@ -102,7 +102,7 @@ I'm also exploring backend development and will be working with the Frappe Frame
 
 ---
 
-## 🎯 What I'm Working Towards
+##  What I'm Working Towards
 
 My goal is to become a well-rounded Software Engineer who can understand and work across different parts of a software system, not just one specific layer.
 
@@ -110,7 +110,7 @@ I'm currently building my fundamentals through problem solving, learning new tec
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 -  [Portfolio](https://portfolio-iota-six-71.vercel.app/)
 -  [LinkedIn](www.linkedin.com/in/mohamedxfawzi)
